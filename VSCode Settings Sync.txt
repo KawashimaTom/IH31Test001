@@ -1,4 +1,4 @@
-QlƒTƒCƒg
+ï»¿å‚è€ƒã‚µã‚¤ãƒˆ
 https://nelog.jp/vscode-sync
 
 
@@ -10,5 +10,5 @@ Personal access tokens
 
 
 
-Gist ID  (ƒ†[ƒU[–¼ˆÈ~‚Ì•”•ª‚Ì‚İj
+Gist ID  (ãƒ¦ãƒ¼ã‚¶ãƒ¼åä»¥é™ã®éƒ¨åˆ†ã®ã¿ï¼‰
 https://gist.github.com/KawashimaTom/366ee83ce28eae51baf93d4912d9cf24
