@@ -1,0 +1,14 @@
+﻿参考サイト
+https://nelog.jp/vscode-sync
+
+
+
+VSCode Settings Sync
+
+Personal access tokens
+3bc109d2414d2d740c1d3d7265f1772424995c27
+
+
+
+Gist ID  (ユーザー名以降の部分のみ）
+https://gist.github.com/KawashimaTom/366ee83ce28eae51baf93d4912d9cf24
